@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "path:sample/Notes  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Neurology🧠  ",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    },
+    {
+      "query": "tag:#MachineLearning🤖  ",
+      "color": {
+        "a": 1,
+        "rgb": 28415
+      }
+    },
+    {
+      "query": "tag:#Math📚  ",
+      "color": {
+        "a": 1,
+        "rgb": 4446757
+      }
+    },
+    {
+      "query": "tag:#Coding💻  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.42398271071318,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.166752089462921,
+  "close": true
+}
